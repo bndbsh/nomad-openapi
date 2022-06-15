@@ -57,7 +57,7 @@ export class ConsulUpstream {
     static getAttributeTypeMap() {
         return ConsulUpstream.attributeTypeMap;
     }
-    
+
     public constructor() {
     }
 }

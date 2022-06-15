@@ -64,7 +64,7 @@ export class SchedulerConfiguration {
     static getAttributeTypeMap() {
         return SchedulerConfiguration.attributeTypeMap;
     }
-    
+
     public constructor() {
     }
 }

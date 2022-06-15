@@ -28,7 +28,7 @@ export class ConsulGatewayTLSConfig {
     static getAttributeTypeMap() {
         return ConsulGatewayTLSConfig.attributeTypeMap;
     }
-    
+
     public constructor() {
     }
 }

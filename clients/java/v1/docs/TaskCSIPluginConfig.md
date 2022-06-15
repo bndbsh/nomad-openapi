@@ -5,11 +5,11 @@
 
 ## Properties
 
-Name | Type | Description | Notes
------------- | ------------- | ------------- | -------------
-**ID** | **String** |  |  [optional]
-**mountDir** | **String** |  |  [optional]
-**type** | **String** |  |  [optional]
+| Name | Type | Description | Notes |
+|------------ | ------------- | ------------- | -------------|
+|**ID** | **String** |  |  [optional] |
+|**mountDir** | **String** |  |  [optional] |
+|**type** | **String** |  |  [optional] |
 
 
 
